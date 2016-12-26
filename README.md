@@ -1,2 +1,1 @@
-# coursera-test
-test repo for coursera
+# module1-solution
